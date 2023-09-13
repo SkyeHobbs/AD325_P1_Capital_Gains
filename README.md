@@ -133,5 +133,5 @@ Please see the Rubric on canvas for assessment.
 
 ## Deliverables
 * Zip up the files for your project and submit them on Canvas.
-        * You can also add them to your personal Github and give me a link and I can get them that way.
+    * You can also add them to your personal Github and give me a link and I can get them that way.
 * File of your UML diagram(s). Please ensure they are PDF or image files.
