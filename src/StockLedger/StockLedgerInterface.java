@@ -1,4 +1,4 @@
-package StockLedger;
+package Deque.StockLedger;
 
 public interface StockLedgerInterface {
 
