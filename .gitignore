@@ -1,5 +1,6 @@
 # ignore IDE configurations
-.idea
+.idea/
+*.xml
 
 # ignore .iml files
 *.iml
