@@ -134,4 +134,4 @@ Please see the Rubric on canvas for assessment.
 
 ## Deliverables
 * Please add your UML documents to your Git repository. I will look for them there.
-* Submit a link to your Git repository. If you make the repository private, make sure to add me as a collaborator, so I can see your code.
+* Submit a link to your private Git repository. 
