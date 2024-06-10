@@ -126,8 +126,10 @@ Now we sell our last 10 shares. We know we paid $75 a piece for them and we are 
 * Including the runtime as a comment on algorithms with loops in them will be seen as going above and beyond as well.
 
 ## Format Requirements
-Please ensure you follow the structure as listed above. Use IntelliJ to do your work. Use javadoc comments where appropriate.
-Ensure that your UML diagram submission is in PDF or an image file format.
+Please ensure you follow the structure as listed above. Use IntelliJ to do your work. Use javadoc comments where appropriate. \
+Ensure that your UML diagram submission is in PDF or an image file format. \
+You will create a Github repository for your project. Use best practices when uploading IntelliJ projects to Github. Please see these guidelines on what to NOT upload to Intellij: [Uploading Projects onto GithubLinks to an external site.](https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems) \
+You are required to use Java 21. If its does not compile with us, it will be returned to you.
 
 ## Assessment
 Please see the Rubric on canvas for assessment.
