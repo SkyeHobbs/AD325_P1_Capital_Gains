@@ -51,7 +51,7 @@ The layout for the data structures are as follows:
 
 ![image demonstrating the desired functionality of the assignment](img/CapitalGainsLayout.jpg)
 
-##Testing
+## Testing
 
 You will be writing unit tests and will be required to have at least 80% method code coverage for all tests.
 
