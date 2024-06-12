@@ -51,6 +51,19 @@ The layout for the data structures are as follows:
 
 ![image demonstrating the desired functionality of the assignment](img/CapitalGainsLayout.jpg)
 
+##Testing
+
+You will be writing unit tests and will be required to have at least 80% method code coverage for all tests.
+
+You can create your unit tests for
+
+* LinkedDeque
+* StockLedger
+
+and it will cover most of the rest from there. You can run all tests by right-clicking on your test folder -> More Run/Debug -> Run 'All Tests' with Coverage. You can see where your total method coverage is under the all package at the top. See screenshot below. This would be an acceptable coverage.
+
+![image showing code coverage](img/P1_CodeCoverage.png)
+
 ## Output
 All stocks of the same type will go into the same Linked Deque. The ArrayList will be implemented in StockLedger. You will need to write methods to display your ledger. You will need to use an Iterator. Note how DequeInterface extends Iterable<T>. Keep in mind where the data is that you need (StockPurchase class) and how you will access it. Be sure you maintain encapsulation and reusability of LinkedDeque. You should be able to use LinkedDeque for any deque, not just StockLedger content. This is one of the trickiest parts of this assignment so think it through, trace it out on paper, whatever you need to do.
 
