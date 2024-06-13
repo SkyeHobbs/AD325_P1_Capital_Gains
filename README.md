@@ -135,7 +135,6 @@ Now we sell our last 10 shares. We know we paid $75 a piece for them and we are 
 * Use javadoc comments on your functions to explain what they do. You do not have to do this in the class implementations where there is an interface, you can use @inheritDoc.
 * Be sure your code is clean, legible and easy to read.
 * Feel free to go above and beyond! Add new methods and functionality, test in different ways in addition to what you are required to do, be creative! The top grades go to those who go above and beyond. Strive for excellence.
-* You are not required to create unit tests but are welcome to do so if you wish.
 * Including the runtime as a comment on algorithms with loops in them will be seen as going above and beyond as well.
 
 ## Format Requirements
