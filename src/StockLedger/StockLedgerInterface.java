@@ -1,5 +1,3 @@
-package Deque.StockLedger;
-
 public interface StockLedgerInterface {
 
     /** Records a stock purchase in this ledger.
