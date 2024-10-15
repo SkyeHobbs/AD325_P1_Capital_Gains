@@ -10,7 +10,13 @@ public class LinkedDeque<T> implements DequeInterface<T> {
 
     @Override
     public void addToFront(T newEntry) {
+        DLNode<T> newNode = new DLNode<>(newEntry);
 
+        if (isEmpty()) {
+            front = back = newNode;
+        } else {
+            
+        }
     }
 
     @Override
@@ -35,12 +41,12 @@ public class LinkedDeque<T> implements DequeInterface<T> {
 
     @Override
     public T getFront() {
-        return null;
+        return front.getData();
     }
 
     @Override
     public T getBack() {
-        return null;
+        return back.getData();
     }
 
     @Override
